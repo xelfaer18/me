@@ -34,3 +34,16 @@ __РАБОТА ОКОНЧЕНА__
 
 Заходим в vscode и синхронизируем в *github*
 
+Переходим на *github* во вкладку yoyr repositories и создаем репозиторий со своим именем.
+
+Копируем три команды из *github* и вставляем их в vscode
+1. git remote add origin https://github.com/xelfaer18/me.git
+2. git branch -M main
+3. git push -u origin main
+
+Переходи на github, редактируем файл на сайте и нажимаем commit changes
+
+заходим в vscode и пишем команду __git pull__ - что синхронизирует github и vscode
+
+
+
